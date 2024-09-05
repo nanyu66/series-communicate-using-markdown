@@ -1,7 +1,15 @@
-你准备好了！
-您接受了作业 Series： Communicate Using Markdown。
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
 
-您的作业仓库已创建：
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-nanyu66
-我们已经配置了与此分配关联的存储库。
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
